@@ -1,3 +1,4 @@
+// Write a java program to implement encryption and decryption using DES algorithm.
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
