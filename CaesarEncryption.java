@@ -1,4 +1,4 @@
-// Write a java program to implement the caesar cipher encryption  in Java.
+// Write a java program to implement the caesar cipher encryption.
 import java.util.Scanner;
 public class CaesarEncryption {
     public static String encrypt(String text, int shift) {
